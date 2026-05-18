@@ -19,15 +19,16 @@
  - JAVASCRIPT
 
  ## Project Structure
- '''porfolio/
- |
- |__index.html 
- |__style.css
- |__script.js
- |__pics/
-    |__image1.jpg
-    |__image2.jpg 
-'''
+```text
+portfolio/
+│
+├── index.html
+├── style.css
+├── script.js
+└── pics/
+    ├── image1.jpg
+    └── image2.jpg
+```
  ## How to run
  1.Download or clone the repository
  
