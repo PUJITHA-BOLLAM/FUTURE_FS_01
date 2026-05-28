@@ -34,8 +34,11 @@ portfolio/
  
  2.Open  'index.html' in your browser
 
- ## Screenshots
  ## Live Website Link
+ https://pujitha-bollam.github.io/FUTURE_FS_01/
+
+ ## Author
+ Pujitha Bollam
  
           
  
