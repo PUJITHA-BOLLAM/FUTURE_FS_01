@@ -11,12 +11,16 @@ body{
     background:linear-gradient(135deg,#081b29,#0f2027,#203a43);
     color:white;
 }
+html{
+    scroll-behaviour:smooth;
+}
+
 
 /* COMMON SECTION STYLE */
 
 section{
     min-height:100vh;
-    padding:40px 8%;
+    padding:80px;
 }
 
 /* HEADINGS */
